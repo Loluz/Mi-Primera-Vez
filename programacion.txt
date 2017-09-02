@@ -6,4 +6,4 @@ for recorrido in range (1,len(listaDesordenada)):
       temp=listaDesordenada[posicion]
       listaDesordenada[posicion]=listaDesordenada[posicion+1]
       listaDesordenada[posicion+1]=temp
-print listaDesordena
+print listaDesordenada
