@@ -37,6 +37,7 @@
 
 <body text="#22BEE1">
 
-</body>
-
+<button onclick=>INICIO</button>
+<button onclick=>Busqueda personas  </button>
+<button onclick=> Mas </button>
 </html>
