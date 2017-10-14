@@ -30,12 +30,10 @@
 </center> 
   
   
-  
- <font color="#FF6EC7" size=10> </font>
 
 <body>
 
-<body bgcolor="#A31DBD"> 
+<body bgcolor="#FDDAF2"> 
 
 <body text="#22BEE1">
 
