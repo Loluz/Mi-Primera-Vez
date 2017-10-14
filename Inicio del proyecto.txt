@@ -25,10 +25,19 @@
 
 <a href="servicios.html">Busqueda Personas</a>  
 
-<a href="contacto.html">Màs</a>  
+<a href="contacto.html">MÃ s</a>  
 
 </center> 
   
+  
+  
+ <font color="#FF6EC7" size=10> </font>
+
+<body>
+
+<body bgcolor="#A31DBD"> 
+
+<body text="#22BEE1">
 
 </body>
 
